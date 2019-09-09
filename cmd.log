@@ -1,0 +1,233 @@
+    1* 
+    2  git push sortfiles
+    3  git ls 
+    4  git --help 
+    5  git --info -path 
+    6  git --info-path 
+    7  git -path 
+    8  git config --global user.email s.taleb@htcompass.fr
+    9  git init df
+   10  git rm df
+   11  git config --global user.name "sofiane Taleb"
+   12  ls
+   13  rmdir df
+   14  ls 
+   15  rm doc/
+   16  rm -r doc/
+   17  mkdir df
+   18  rm -r df/
+   19  cd apolo-14/
+   20  git init 
+   21  ls
+   22  ls -a
+   23  git status 
+   24  cd ..
+   25  git status
+   26  cd ./apolo-14/
+   27  ls
+   28  ls -al
+   29  chmod +771 script-insert-data.sql 
+   30  ls -al
+   31  git remote add origin master https://github.com/vivancoson/bigdata.git
+   32  git remote add origin https://github.com/vivancoson/bigdata.git
+   33  git status 
+   34  git add .
+   35  git commit -m "initialisation "
+   36  git status 
+   37  git log 
+   38  git push
+   39  git push origin master 
+   40  touch script.sql
+   41  git push origin master 
+   42  git push origin master 
+   43  clea
+   44  clea
+   45  clear
+   46  git status
+   47  git add  script.sql 
+   48  git status
+   49  git commit -m "add insert script for books"
+   50  git log
+   51  git remote add origin https://github.com/htc-staleb/apolo-14.git
+   52  git remote rm origin
+   53  git remote add origin https://github.com/htc-staleb/apolo-14.git
+   54  git push -u origin master
+   55  origin
+   56  git push -u origin master
+   57  git remote rm vivancoson
+   58  clear
+   59  git remote rm * origin
+   60  git remote rm origin
+   61  git push -u origin master
+   62  git remote add origin https://github.com/htc-staleb/apolo-14.git
+   63  git push -u origin master
+   64  git remote -v
+   65  git remote -v 
+   66  git push -u origin master 
+   67  git remote rm origin 
+   68  git remote -v 
+   69  git remote add origin https://github.com/htc-staleb/apolo-14.git
+   70  git push -u origin master 
+   71  git status 
+   72  git log 
+   73  git init
+   74  git remote add origin https://github.com/htc-staleb/apolo-14.git
+   75  git push -u origin master 
+   76  git init 
+   77  git log 
+   78  git init
+   79  git status
+   80  git add *
+   81  git status
+   82  git commit -m "test alpha barov"
+   83  git status
+   84  git remote add origin https://github.com/htc-staleb/apolo-14.git
+   85  git push -u origin master
+   86  git config --global
+   87  git config --list
+   88  history 
+   89  history > cmd.log
+   90  git status 
+   91  git add .
+   92  git status 
+   93  ls
+   94  ls -a
+   95  clear
+   96  git push roigin master 
+   97  git remote -v
+   98  git push oigin master 
+   99  git push origin master 
+  100  git status 
+  101  git help --push
+  102  git
+  103  git help push
+  104  git help git
+  105  git --help
+  106  git --help push
+  107  git pusch
+  108  git --help 
+  109  help push
+  110  git branch
+  111  git branch modife
+  112  git branch
+  113  git checkout modife 
+  114  clear
+  115  git remove branch modife
+  116  git branch remove modife
+  117  git branch
+  118  git remove remove
+  119  git branch -d remove
+  120  git checkout master 
+  121  git branch -d modife 
+  122  git branch modif
+  123  git branch -d modif
+  124  git checkout -b modif
+  125  clear
+  126  git branch jira-147
+  127  git branch
+  128  git branch --list
+  129  git checkout jira-147 
+  130  clear
+  131  git status 
+  132  git pull
+  133  ls
+  134  vi cmd.log 
+  135  git status 
+  136  git commit -am "ajout d'une commande"
+  137  git status 
+  138  git merge 
+  139  git branch 
+  140  git log
+  141  git clear
+  142  clear
+  143  git checkout master 
+  144  git log 
+  145  git branch 
+  146  git status
+  147  git checkout jira-147 
+  148  git status
+  149  ls 
+  150  vi cmd.log 
+  151  git status
+  152* 
+  153  git checkout master 
+  154  git status
+  155  ls
+  156  git commit -am "ajout d'une 2em commande"
+  157  git status 
+  158  ls
+  159  git checkout master 
+  160  ls
+  161  git status 
+  162  git checkout jira-147 
+  163  ls
+  164  git merge cmd.log
+  165  git checkout master 
+  166  git checkout jira-147 
+  167  git merge cmd.log
+  168  git checkout modif 
+  169  ls
+  170  git branch -d modif 
+  171  git checkout master 
+  172  git branch -d modif 
+  173  git checkout -b jira-7 
+  174  ls
+  175  mv script.sql script.txt 
+  176  ls
+  177  git status 
+  178  git checkout master 
+  179  ls
+  180  git status 
+  181  git checkout jira-7
+  182  git add script.
+  183* 
+  184  git checkout master 
+  185  ls
+  186  git checkout jira-7
+  187  git sta
+  188  git status 
+  189  git commit script.sql 
+  190  git status 
+  191  git commit -am "ajout d'une 2em commande"
+  192  git status 
+  193  ls 
+  194  git checkout master 
+  195  git checkout jira-7
+  196  git merge script.txt
+  197  git merge script.txt
+  198  git checkout master 
+  199  git status 
+  200  git log 
+  201  git checkout jira-7
+  202  vi script.txt 
+  203  mv script.txt script.sql
+  204  git add *
+  205  git status 
+  206  git commit -m "modife texte"
+  207  git status 
+  208  git commit -m "modife text"
+  209  git status 
+  210  git commit -am "modife extension "
+  211  git status 
+  212  git merge script.sql
+  213* 
+  214  git status 
+  215  git commit -am "ajoutd'une requete"
+  216  git status 
+  217  git merge script.sql
+  218  git merge master 
+  219  git checkout master 
+  220  ls
+  221  git status 
+  222  vi script.sql 
+  223* git merge jira-7vfssfdfs
+  224  vi script.sql 
+  225  git log 
+  226  git checkout jira-
+  227  git checkout jira-7
+  228  ls
+  229  git push 
+  230  git push origin master 
+  231  git push origin jira-7
+  232  git checkout master 
+  233  history > cmd.log 
