@@ -1,1 +1,1 @@
-ici on met les requetes sql
+select* from publik where status= "y"
