@@ -220,7 +220,7 @@
   220  ls
   221  git status 
   222  vi script.sql 
-  223* git merge jira-7vfssfdfs
+  223* git merge jira-
   224  vi script.sql 
   225  git log 
   226  git checkout jira-
